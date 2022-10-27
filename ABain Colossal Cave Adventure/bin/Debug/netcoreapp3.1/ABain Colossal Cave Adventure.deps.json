@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ABain Colossal Cave Adventure/1.0.0": {
+        "runtime": {
+          "ABain Colossal Cave Adventure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABain Colossal Cave Adventure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

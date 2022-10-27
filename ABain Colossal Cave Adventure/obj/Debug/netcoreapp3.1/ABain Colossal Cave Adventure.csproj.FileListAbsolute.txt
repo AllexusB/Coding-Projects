@@ -1,0 +1,13 @@
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.exe
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.deps.json
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.runtimeconfig.json
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.runtimeconfig.dev.json
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.dll
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\bin\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.pdb
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.csprojAssemblyReference.cache
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.AssemblyInfoInputs.cache
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.AssemblyInfo.cs
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.csproj.CoreCompileInputs.cache
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.dll
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.pdb
+C:\Users\RET\Documents\CPSC Spring 2021\ABain Colossal Cave Adventure\obj\Debug\netcoreapp3.1\ABain Colossal Cave Adventure.genruntimeconfig.cache
