@@ -1,0 +1,70 @@
+//Potato
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lab_10__Minecraft_Inheritance
+{
+    class Potato : Food
+    {
+        //---------- Constructors ------------//
+        private bool raw;
+        private bool poisonous;
+
+        public Potato()
+        {
+            //----- Data Members -----//
+            hungerReplenished = 1;
+            raw = true;
+            poisonous = twoPercentTrue();
+        }
+
+        //Override
+        public override string ToString()
+        {
+            return "I am a Potato, with hungerReplenished of " + hungerReplenished;
+        }
+
+        //---------- Getters and Setters --------//
+
+        public bool getRaw()
+        {
+            return raw;
+        }
+
+        public void setRaw(bool newRaw)
+        {
+            raw = newRaw;
+        }
+
+        public bool getPoisonous()
+        {
+            return poisonous;
+        }
+
+        public void setPoisonous(bool newPoisonous)
+        {
+            poisonous = newPoisonous;
+        }
+
+        // ---------- Constructor for Poisoned Potato ---------//
+        public bool twoPercentTrue()
+        {
+            Random rng = new Random();  // pesudo-random number generator
+
+            // a 2% chance that we'll get a 1 or a 2
+            int value = rng.Next(100);
+
+            if (value == 1 || value == 2)
+            {
+                return true;
+            }
+            else
+            {
+                return false;
+            }
+        }
+    
+    }
+}

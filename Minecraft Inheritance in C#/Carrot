@@ -1,0 +1,25 @@
+//Carrot
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lab_10__Minecraft_Inheritance
+{
+    class Carrot : Food
+    {
+        public Carrot ()
+        {
+            //--------- Constructor --------//
+             hungerReplenished = 3;
+        }
+
+        //Override 
+        public override string ToString()      
+        {           
+            return "I am a Carrot, with hungerReplenished of " + hungerReplenished; 
+
+        }
+
+    }
+}

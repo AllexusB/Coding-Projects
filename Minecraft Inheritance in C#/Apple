@@ -1,0 +1,23 @@
+//Apple
+
+using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Lab_10__Minecraft_Inheritance
+{
+    class Apple: Food
+    {
+        public Apple()
+        {
+            // --------- Constructor --------//
+            hungerReplenished = 4;
+        }
+
+        //Override
+        public override string ToString()
+        {
+            return "I am an Apple, with hungerReplenished of " + hungerReplenished;
+        }
+    }
+}
